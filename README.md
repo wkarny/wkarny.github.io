@@ -1,12 +1,14 @@
 Wyes Karny
 ==========
-Sr. Software Engineer at AMD
+Software Engineer at Google
 
-Previously worked in Qualcomm.
+Previously worked in AMD, Qualcomm.
 
 Working on Linux kernel developement.
 
 ## Opensource contributions:
+
+Linux kernel commits: [link](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=wyes)
 
 **Qualcomm (2019-2021)**
 
@@ -31,7 +33,7 @@ Worked in Camera kernel driver for android linux
 - msm: camera: cpas: Add fuse MP limit support [link](https://git.codelinaro.org/clo/la/platform/vendor/opensource/camera-kernel/-/commit/c37f48cfc5dc57ea1ff6393cfc6a80eb7b3a8ed2)
 - [full list](https://git.codelinaro.org/clo/la/platform/vendor/opensource/camera-kernel/-/commits/LA.UM.9.14.1.c25?search=wyes)
 
-**AMD (2021-present)**
+**AMD (2021-2023)**
 
 Working in linux kernel scheduler and perforamnce management for AMD EPYC server
 - x86: Prefer MWAIT over HLT on AMD processors [accepted series link](https://lore.kernel.org/lkml/cover.12ae0052320eae3574e421a17822624143a4bc61.1654538381.git-series.wyes.karny@amd.com/)
